@@ -16,7 +16,7 @@
     </properties>
     <description>Project AD</description>
     <packaging>jar</packaging>
-
+    <url>https://github.com/wuxiatech/wuxia-project-ad.git</url>
     <dependencies>
         <dependency>
             <groupId>cn.wuxia.project</groupId>
