@@ -6,12 +6,12 @@
 * <Ver.No>     <date>        <who modify>       <reason>
 * Copyright 2014-2020 www.ibmall.com All right reserved.
 */
-package cn.wuxia.project.ad.core.dao;
+package cn.wuxia.project.location.core.dao;
 
 import java.util.List;
 import java.util.Map;
 
-import cn.wuxia.project.ad.core.entity.Ad;
+import cn.wuxia.project.location.core.entity.Ad;
 import cn.wuxia.project.basic.core.common.BaseCommonDao;
 import org.springframework.stereotype.Component;
 

@@ -1,4 +1,4 @@
-package cn.wuxia.project.ad.core.enums;
+package cn.wuxia.project.location.core.enums;
 
 import cn.wuxia.common.util.StringUtil;
 

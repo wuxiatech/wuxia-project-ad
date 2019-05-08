@@ -1,4 +1,4 @@
-package cn.wuxia.project.ad.core.enums;
+package cn.wuxia.project.location.core.enums;
 
 /**
  * 自定义菜单动作类型

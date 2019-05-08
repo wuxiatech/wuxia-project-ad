@@ -6,15 +6,15 @@
 * <Ver.No>     <date>        <who modify>       <reason>
 * Copyright 2014-2020 www.ibmall.com All right reserved.
 */
-package cn.wuxia.project.ad.core.service.impl;
+package cn.wuxia.project.location.core.service.impl;
 
 import cn.wuxia.common.orm.query.Pages;
 import cn.wuxia.common.util.StringUtil;
 import cn.wuxia.common.util.reflection.ReflectionUtil;
-import cn.wuxia.project.ad.core.dao.AdDao;
-import cn.wuxia.project.ad.core.entity.Ad;
-import cn.wuxia.project.ad.core.entity.AdLocation;
-import cn.wuxia.project.ad.core.service.AdService;
+import cn.wuxia.project.location.core.dao.AdDao;
+import cn.wuxia.project.location.core.entity.Ad;
+import cn.wuxia.project.location.core.entity.AdLocation;
+import cn.wuxia.project.location.core.service.AdService;
 import cn.wuxia.project.common.dao.CommonDao;
 import cn.wuxia.project.common.service.impl.CommonServiceImpl;
 import cn.wuxia.project.common.support.Constants;

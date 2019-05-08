@@ -6,7 +6,7 @@
 * <Ver.No>     <date>        <who modify>       <reason>
 * Copyright 2014-2020 www.ibmall.com All right reserved.
 */
-package cn.wuxia.project.ad.core.entity;
+package cn.wuxia.project.location.core.entity;
 
 import java.util.List;
 
@@ -27,7 +27,7 @@ import org.hibernate.annotations.Where;
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 
-import cn.wuxia.project.ad.core.enums.AdLocationLoadTypeEnum;
+import cn.wuxia.project.location.core.enums.AdLocationLoadTypeEnum;
 import cn.wuxia.project.common.model.ModifyInfoEntity;
 import cn.wuxia.common.util.StringUtil;
 

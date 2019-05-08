@@ -2,7 +2,7 @@
  * Created on :20 Mar, 2014 Author :songlin Change History Version Date Author
  * Reason <Ver.No> <date> <who modify> <reason>
  */
-package cn.wuxia.project.ad.core.bean;
+package cn.wuxia.project.location.core.bean;
 
 import java.io.Serializable;
 

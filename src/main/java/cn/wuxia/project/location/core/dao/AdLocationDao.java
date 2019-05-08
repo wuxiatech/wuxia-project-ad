@@ -6,13 +6,13 @@
 * <Ver.No>     <date>        <who modify>       <reason>
 * Copyright 2014-2020 www.ibmall.com All right reserved.
 */
-package cn.wuxia.project.ad.core.dao;
+package cn.wuxia.project.location.core.dao;
 
 import java.util.List;
 
 import cn.wuxia.project.basic.core.common.BaseCommonDao;
-import cn.wuxia.project.ad.core.entity.AdLocation;
-import cn.wuxia.project.ad.core.enums.AdLocationLoadTypeEnum;
+import cn.wuxia.project.location.core.entity.AdLocation;
+import cn.wuxia.project.location.core.enums.AdLocationLoadTypeEnum;
 import org.hibernate.criterion.Order;
 import org.hibernate.criterion.Restrictions;
 import org.springframework.stereotype.Component;

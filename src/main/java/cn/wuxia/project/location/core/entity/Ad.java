@@ -6,7 +6,7 @@
 * <Ver.No>     <date>        <who modify>       <reason>
 * Copyright 2014-2020 www.ibmall.com All right reserved.
 */
-package cn.wuxia.project.ad.core.entity;
+package cn.wuxia.project.location.core.entity;
 
 import java.sql.Timestamp;
 

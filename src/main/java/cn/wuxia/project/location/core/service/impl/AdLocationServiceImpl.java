@@ -6,16 +6,16 @@
 * <Ver.No>     <date>        <who modify>       <reason>
 * Copyright 2014-2020 www.ibmall.com All right reserved.
 */
-package cn.wuxia.project.ad.core.service.impl;
+package cn.wuxia.project.location.core.service.impl;
 
 import java.lang.reflect.Field;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-import cn.wuxia.project.ad.core.dao.AdLocationDao;
-import cn.wuxia.project.ad.core.entity.Ad;
-import cn.wuxia.project.ad.core.entity.AdLocation;
+import cn.wuxia.project.location.core.dao.AdLocationDao;
+import cn.wuxia.project.location.core.entity.Ad;
+import cn.wuxia.project.location.core.entity.AdLocation;
 import cn.wuxia.project.basic.support.ApplicationPropertiesUtil;
 import cn.wuxia.project.storage.core.model.UploadFileInfo;
 import cn.wuxia.project.storage.core.model.UploadFileSetInfo;
@@ -30,8 +30,8 @@ import org.springframework.transaction.annotation.Transactional;
 
 import com.google.common.collect.Maps;
 
-import cn.wuxia.project.ad.core.service.AdLocationService;
-import cn.wuxia.project.ad.core.service.AdService;
+import cn.wuxia.project.location.core.service.AdLocationService;
+import cn.wuxia.project.location.core.service.AdService;
 import cn.wuxia.project.common.dao.CommonDao;
 import cn.wuxia.project.common.service.impl.CommonServiceImpl;
 import cn.wuxia.project.common.support.Constants;

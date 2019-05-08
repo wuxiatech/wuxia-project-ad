@@ -6,12 +6,12 @@
 * <Ver.No>     <date>        <who modify>       <reason>
 * Copyright 2014-2020 www.ibmall.com All right reserved.
 */
-package cn.wuxia.project.ad.core.service;
+package cn.wuxia.project.location.core.service;
 
 import java.util.List;
 import java.util.Map;
 
-import cn.wuxia.project.ad.core.entity.Ad;
+import cn.wuxia.project.location.core.entity.Ad;
 import cn.wuxia.project.common.service.CommonService;
 import cn.wuxia.common.orm.query.Pages;
 
